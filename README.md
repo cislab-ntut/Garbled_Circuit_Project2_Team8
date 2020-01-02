@@ -35,8 +35,7 @@ Garbled circuit
 因為此份比較難完成，教授有另提一個方案SHA256
 ### SHA256
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SHA-2.svg/400px-SHA-2.svg.png)
-#### 參考SHA 文章:
-https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/602774/
+#### 參考SHA 文章:https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/602774/
 ![](https://cdn.discordapp.com/attachments/623345235585662980/637331182899429387/unknown.png)
 ![](https://cdn.discordapp.com/attachments/623345235585662980/637332513131462674/unknown.png)
 ## 討論
@@ -49,8 +48,7 @@ input_key
 當作是6這樣看，然後後面以此類推，推下去最後狀態會是gate5的output 狀態10
 ![](https://media.discordapp.net/attachments/623345235585662980/639645138712526858/Screenshot_20191101-100116.png?width=380&height=675)
 
-#### 參考隊員提供以前相似作業:
-https://docs.google.com/document/d/1PfZ-ZYhfhDsEo-5WPRYCVF7TCkz255RyU-HSRpgIv9c/edit?usp=sharing
+#### 參考隊員提供以前相似作業:https://docs.google.com/document/d/1PfZ-ZYhfhDsEo-5WPRYCVF7TCkz255RyU-HSRpgIv9c/edit?usp=sharing
 
 ---
 先不管亂數標籤，先建立起來真值表
