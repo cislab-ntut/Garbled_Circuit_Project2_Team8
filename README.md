@@ -46,7 +46,8 @@ input_key
 10000011    0
 10000011    0
 當作是6這樣看，然後後面以此類推，推下去最後狀態會是gate5的output 狀態10
-![](https://media.discordapp.net/attachments/623345235585662980/639645138712526858/Screenshot_20191101-100116.png?width=380&height=675)
+
+![](https://media.discordapp.net/attachments/623345235585662980/639645138712526858/Screenshot_20191101-100116.png?)
 
 #### 參考隊員提供以前相似作業:https://docs.google.com/document/d/1PfZ-ZYhfhDsEo-5WPRYCVF7TCkz255RyU-HSRpgIv9c/edit?usp=sharing
 
