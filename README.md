@@ -40,7 +40,7 @@ Garbled circuit
 ![](https://cdn.discordapp.com/attachments/623345235585662980/637332513131462674/unknown.png)
 ## 討論
 input_key
-那當作1~5左邊為0或1(其實就兩種狀態)，gate1部分當作是預先寫好的，gate1~5都是先設好，然後gcircuit那不是1   2   gate1   6嗎?所以gate1出來的
+那當作1-5左邊為0或1(其實就兩種狀態)，gate1部分當作是預先寫好的，gate1~5都是先設好，然後gcircuit那不是1   2   gate1   6嗎?所以gate1出來的
 10011101    1
 10000011    0
 10000011    0
