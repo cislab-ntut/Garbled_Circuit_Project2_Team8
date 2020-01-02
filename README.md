@@ -35,7 +35,7 @@ Garbled circuit
 因為此份比較難完成，教授有另提一個方案SHA256
 ### SHA256
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SHA-2.svg/400px-SHA-2.svg.png)
-參考SHA 文章:
+#### 參考SHA 文章:
 https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/602774/
 ![](https://cdn.discordapp.com/attachments/623345235585662980/637331182899429387/unknown.png)
 ![](https://cdn.discordapp.com/attachments/623345235585662980/637332513131462674/unknown.png)
