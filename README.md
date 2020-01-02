@@ -1,5 +1,5 @@
 # Project8-2_Garbled_circuit
-# Garbled Circuit:
+## Garbled Circuit:
 1063514 李晨宇 60%  主程式CODE編譯&電路構圖
 1051537 康宇良 40%  嘗試SHA256設計畫電路
 ## g^x mod p
